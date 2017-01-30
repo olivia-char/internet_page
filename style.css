@@ -1,0 +1,141 @@
+.header{
+	width: 100%;
+	height: 150px;
+	display: block;
+	margin-bottom: 20px;
+}
+.header img{
+	display: inline-block;
+	margin-left: 10px;
+}
+.header h1{
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 0px 0px 0px;
+	position: relative;
+	font-size: 55px;
+}
+.header h2{
+	width: 100%;
+	display: inline-block;
+	background-color: blue;
+	padding: 15px 0px 20px 20px;
+	margin: 0px;
+	position: relative;
+	font-size: 35px;
+	color: white;
+}
+.wrapper{
+	position: relative;
+	width: 100%;
+	height:1000px; 
+	background-color: silver;
+	padding: 10px;
+}
+.side-bar{
+	width: 20%;
+	height: 700px;
+	display: inline-block;
+	position: relative;
+	padding: 20px 20px 0px 5px;
+}
+.side-bar-info{
+	border-bottom: 1px solid black;
+	height: 290px;
+	display: block;
+}
+.side-bar-info button{
+	display: block;
+	padding: 10px 30px 10px 30px;
+	margin: 5px 0px 0px 3px;
+	width: 275px;
+	font-size: 18px;
+	border-radius: 10px;
+	background-color: blue;
+	color: white;
+}
+.ad{
+	margin-top: 40px;
+	text-align: center;
+	background-image: url("images/ad_background.png");
+	height: 300px;
+	color: white;
+	padding: 25px;
+}
+.ad img{
+	display: block;
+	margin: 10px 0px 20px 60px;
+}
+.ad button{
+	width: 175px;
+	padding: 10px 25px 10px 25px;
+	border-radius: 10px;
+	color: white;
+	background-color: ;
+}
+.content{
+	padding: 20px;
+	width: 72%;
+	height: 1000px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
+.content h3{
+	color:blue;
+	margin: 0px;
+}
+.content ol, ul, p{
+	margin: 10px;
+}
+.content-header{
+	width: 100%;
+	height: 100px;
+	display: inline-block;
+	position: relative;
+	vertical-align: top;
+	border-bottom: 2px solid black;
+}
+.header-tag {
+	display: inline-block;
+	width: 100px;
+	vertical-align: top;
+}
+.header-tag img, h3{
+	display: inline;
+}
+.phone{
+	margin-left: 630px;
+}
+.phone-number{
+	width: 200px;
+	display: inline-block;
+	text-align: center;
+	margin: 10px;
+}
+.phone-number p {
+	display: block;
+	margin: 0px;
+	font-size: 10px;
+}
+.phone-number h2{
+	display: block;
+	margin: 0px;
+	font-size: 35px;
+}
+.content-body img{
+	display: block;
+	margin: 10px 0px 0px 300px;
+}
+.content-box{
+	height: 300px;
+	border: 10px solid black;
+}
+.html-pic{
+	margin-left: 10px;	
+}
+.content-box img, h3{
+	display: inline-block;
+	vertical-align: top;
+	padding: 10px;
+}
